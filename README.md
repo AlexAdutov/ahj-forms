@@ -1,6 +1,8 @@
 [Popover](https://alexadutov.github.io/ahj-forms)
 
-![CI](https://github.com/alexadutov/ahj-forms/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/4avag2x86mep8v17?svg=true)](https://ci.appveyor.com/project/AlexAdutov/ahj-forms)
+
+![CI](https://ci.appveyor.com/api/projects/status/4avag2x86mep8v17?svg=true)
 
 # Домашнее задание к занятию "Работа с HTML-формами"
 
